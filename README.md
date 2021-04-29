@@ -1,6 +1,6 @@
 # Laravel SB Admin 2
 
-SB Admin 2 for Laravel.
+SB Admin 2 for Laravel, this starter clone from https://github.com/aleckrh/laravel-sb-admin-2
 
 | Laravel Version | Branch |
 |-----------------|--------|
