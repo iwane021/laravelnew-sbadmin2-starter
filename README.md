@@ -1,13 +1,10 @@
 # Laravel SB Admin 2
 
-SB Admin 2 for Laravel.
+SB Admin 2 for Laravel, this starter clone from https://github.com/aleckrh/laravel-sb-admin-2
 
-| Laravel Version | Branch |
-|-----------------|--------|
-| 8.0             | master |
-| 7.0             | v7.0   |
-| 6.0             | v6.0   |
-| 5.8             | v5.8   |
+| Laravel 7 Latest | Branch |
+|------------------|--------|
+| 7.3.04           | master |
 
 ## Requirements
 
@@ -28,18 +25,6 @@ SB Admin 2 for Laravel.
 - Rename or copy `.env.example` file to `.env`
 - Run `php artisan key:generate`
 - Set your database credentials in your `.env` file
-
-## Note
-
-Recommend to install this preset on a project that you are starting from scratch, otherwise your project's design might break.
-
-## Credits
-
-Laravel SB Admin 2 uses some open-source third-party libraries/packages, many thanks to the web community.
-
-- Laravel - Open source framework.
-- LaravelEasyNav - Making managing navigation in Laravel easy.
-- SB Admin 2 - Thanks to Start Bootstrap.
 
 ## Preview
 
